@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/jerwintitus1999/To_Do_List/static/css/main.e944ef9d.css",
+    "main.js": "/jerwintitus1999/To_Do_List/static/js/main.d3021a6d.js",
+    "static/js/453.8ab44547.chunk.js": "/jerwintitus1999/To_Do_List/static/js/453.8ab44547.chunk.js",
+    "index.html": "/jerwintitus1999/To_Do_List/index.html",
+    "main.e944ef9d.css.map": "/jerwintitus1999/To_Do_List/static/css/main.e944ef9d.css.map",
+    "main.d3021a6d.js.map": "/jerwintitus1999/To_Do_List/static/js/main.d3021a6d.js.map",
+    "453.8ab44547.chunk.js.map": "/jerwintitus1999/To_Do_List/static/js/453.8ab44547.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e944ef9d.css",
+    "static/js/main.d3021a6d.js"
+  ]
+}
