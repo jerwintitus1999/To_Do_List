@@ -2,7 +2,7 @@ import express from "express"
 import cors from "cors"
 import "dotenv/config";
 import connectDB from "./config/mongodb.js";
-import { AddTask, deleteTask, getTask, updateTask } from "./api/TaskUpload.controller.js";
+import { AddTask, deleteTask, getTask, updateTask } from "./controller/TaskUpload.controller.js";
 
 const port = process.env.PORT || 4000
 const app = express()
